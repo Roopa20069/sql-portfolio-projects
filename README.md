@@ -1,2 +1,2 @@
 # sql-portfolio-projects
-SQL projects analyzing sales performance and detecting risk patterns
+This project demonstrates SQL skills including joins, aggregations, subqueries, and window functions to analyze business performance and detect anomalies.
